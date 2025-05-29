@@ -6,20 +6,22 @@
 - An Embedded Programming organization lead by two highschool students 📚
 
 ##### ***We work on ;*** 
-- 📏 3d design and modeling
-- 🧑‍💻 embedded programming
-- 🪛 wiring and constructing
+- 📏 3D design and modeling;
+- 🧑‍💻 Embedded programming;
+- 🪛 Wiring and constructing;
 
 #### ***We work with ;***
 ***Programming***
-- ➕Visual Studio Code, C++, Arduino
+- 👀 Visual Studio Code (IDE);
+- ➕ C++ (Primary programming language);
+- 🧱 Arduino (Framework);
   
 ***Design***
-- 🚘FreeCAD, AutoCAD
-- 🔪Prusa slicer 
+- 🚘 FreeCAD, AutoCAD
+- 🔪 Prusa slicer 
 
 ***Components***
-- 👩‍🏭Soldered, Arduino
+- 👩‍🏭 Soldered
 
 ***Competitions***
 - Balkan Junior
