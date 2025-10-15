@@ -1,7 +1,7 @@
 # LabinTech 🤖
 
-- ***Managed by*** [@Asynchronite](https://github.com/Asynchronite) 🦩
-- ***Founded by*** [@tonkabasa](https://github.com/tonkabasa) 🤠
+- ***Founded and lead by*** [@Asynchronite](https://github.com/Asynchronite) 🦩
+- ***Assisted by*** [@tonkabasa](https://github.com/tonkabasa) 🤠
 
 - An Embedded Programming organization lead by two highschool students 📚
 
